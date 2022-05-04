@@ -1,5 +1,5 @@
-Description = "欢迎来到我的博客"
-Keywords =  "博客, 全栈不会程序猿"
+Description = "欢迎来到凡梦星尘空间站，个人主要专注于程序开发，产品，售前及大数据解决方案。"
+Keywords =  "博客, 程序员, 架构师, 思考, 读书, 笔记, 技术, 分享, 大数据, 产品"
 Subtitle = "没有伞的孩子要学会努力奔跑!"
 AuthorImg = "/img/avatar.jpg"
 AuthorName = "Antonio.DC"
@@ -7,7 +7,7 @@ Introduce = "You only live once!"
 DateFormat = "2006-01-02"
 YearFormat = "2006年"
 MonthFormat = "01-02"
-Notice = "最近定个小目标，把专业级给过了"
+Notice = "欢迎来到我的博客"
 
 [[Socials]]
   Name = "GitHub"
